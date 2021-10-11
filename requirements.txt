@@ -21,10 +21,10 @@ pyreadline==2.1
 scipy
 six==1.12.0
 tensorboard==1.13.1
-tensorflow==1.13.2
-tensorflow-estimator==1.13.0
-termcolor==1.1.0
-tflearn==0.3.2
-Werkzeug==0.16.0
-wincertstore==0.2
+tensorflow
+tensorflow-estimator
+termcolor
+tflearn
+Werkzeug
+wincertstore
 gunicorn
